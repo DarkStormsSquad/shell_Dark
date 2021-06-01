@@ -453,10 +453,11 @@ if(unlink($path_del)) {
  
  function mess(){
      
-   window.location.reload();
+   return true;
     
     
  }
+   window.onload = function mess();
 
 
 </script>
