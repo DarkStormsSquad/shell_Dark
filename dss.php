@@ -226,7 +226,7 @@ if(!isset($_COOKIE['cookie_name'])){
 if (strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE) {
     echo 'You are using Internet Explorer.<br />';
 }else{
-    echo 'You are using  browser  .<br />';
+    echo 'You are using  browser other  .<br />';
 }
 ?>
 
