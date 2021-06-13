@@ -17,7 +17,7 @@
 
 </head>
 <style>
-@media only screen and (min-width:600px){     /*---------big-------*/
+@media only screen and (min-width:600px){     /*---------big_screen-------*/
 *{
    
     margin:0px;
@@ -94,7 +94,7 @@ td{
     }
     
 }
-@media only screen and (max-width:600px){     /*---------small-------*/
+@media only screen and (max-width:600px){     /*---------small_screen-------*/
 *{
    
     margin:0px;
